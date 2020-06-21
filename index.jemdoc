@@ -1,0 +1,47 @@
+# jemdoc: menu{menu}{index.html}
+= Rooji Jinan
+
+#[img{200}{}{Rooji Jinan} Images/RoojiJinan.jpg]
+
+~~~
+{}{img_left}{./Images/RoojiJinan.jpg}{Rooji Jinan}{200}{}{}
+PhD Student\n
+[http://cps.iisc.ac.in/ Robert Bosch Centre for Cyberphysical Systems]\n
+[http://iisc.ac.in/ Indian Institute of Science]\n
+Bengaluru 560 012
+
+Email: fullname@iisc.ac.in\n
+
+~~~
+
+== Short Bio
+Rooji Jinan is a currently a PhD student at Robert Bosch Centre for Cyberphysical systems, IISc, Bengaluru.
+She received her B.Tech. degree in Electronics and Communication in 2012 and M.Tech. in Communication Engineering & Signal Processing in 2015 from Calicut University, Kerala. 
+She worked as Assistant Professor at Christ College of Engineering (affiliated to APJ Abdul Kalam Technological University), Kerala during 2016-17.
+
+
+[resume/RoojiCV.pdf Curriculum Vitae]
+
+
+== Publications
+
+
+=== Conference Proceedings
+- R.~Jinan, 
+[https://ece.iisc.ac.in/~parimal P.~Parag], and 
+[https://ece.iisc.ac.in/~htyagi H.~Tyagi].
+Tracking an auto-regressive process with limited communication. 
+/IEEE International Symposium on Information Theory (ISIT)/,
+Los Angeles, CA, USA, 
+Jun 21-26, 2020.
+[ ieeexplore].
+[papers/2020/isit.pdf paper].
+[slides/2020/ISIT2020.pdf slides].
+[https://confcats-event-sessions.s3.amazonaws.com/isit20/videos/1633.mp4 video].
+
+== Talks
+- Centre for Networked Intelligence Network Seminar,IISc, February, 2020.
+[slides/2020/NetworkSeminar.pdf slides]
+
+== Awards
+- Cisco-CNI Phd fellowship, 2019
