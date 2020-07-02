@@ -1,4 +1,4 @@
-# jemdoc: menu{menu}{index.html}
+# jemdoc:{index.html}
 = Rooji Jinan
 
 #[img{150}{}{Rooji Jinan} Images/RoojiJinan.jpg]
@@ -8,7 +8,9 @@
 PhD Student\n
 [http://cps.iisc.ac.in/ Robert Bosch Centre for Cyberphysical Systems]\n
 [http://iisc.ac.in/ Indian Institute of Science]\n
-Bengaluru 560 012
+Bengaluru 560 012 \n
+
+Advisor: [https://ece.iisc.ac.in/~parimal Dr.Parimal Parag]
 
 Email: roojijinan@iisc.ac.in\n
 
