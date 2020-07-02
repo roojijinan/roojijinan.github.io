@@ -1,16 +1,16 @@
 # jemdoc: menu{menu}{index.html}
 = Rooji Jinan
 
-#[img{200}{}{Rooji Jinan} Images/RoojiJinan.jpg]
+#[img{150}{}{Rooji Jinan} Images/RoojiJinan.jpg]
 
 ~~~
-{}{img_left}{./Images/RoojiJinan.jpg}{Rooji Jinan}{200}{}{}
+{}{img_left}{./Images/RoojiJinan.jpg}{Rooji Jinan}{150}{}{}
 PhD Student\n
 [http://cps.iisc.ac.in/ Robert Bosch Centre for Cyberphysical Systems]\n
 [http://iisc.ac.in/ Indian Institute of Science]\n
 Bengaluru 560 012
 
-Email: fullname@iisc.ac.in\n
+Email: roojijinan@iisc.ac.in\n
 
 ~~~
 
