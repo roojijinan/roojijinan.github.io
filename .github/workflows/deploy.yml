@@ -10,7 +10,9 @@ permissions:
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-latest
+    # Use 20.04 because it still supports Python 2.7
+    runs-on: ubuntu-20.04 
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -18,11 +20,10 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '2.7' # Changed from 3.x to 2.7
+          python-version: '2.7'
 
       - name: Generate HTML from Jemdoc
         run: |
-          # Use python (which defaults to 2.7 in this environment)
           python jemdoc.py -c mysite.conf index.jemdoc
           python jemdoc.py -c mysite.conf courses.jemdoc
 
@@ -31,5 +32,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add *.html
-          git commit -m "Automated jemdoc build with config" || echo "No changes to commit"
+          git commit -m "Automated jemdoc build" || echo "No changes to commit"
           git push
