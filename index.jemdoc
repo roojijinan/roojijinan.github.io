@@ -7,12 +7,11 @@
 {}{img_left}{./Images/Photo_RoojiJinan.png}{Rooji Jinan}{150}{}{}
 Research Fellow\n
 [http://https://www.ntu.edu.sg/ Nanyang Technological University]\n
-[http://iisc.ac.in/ Indian Institute of Science]\n
 Singapore \n
 
 Supervisor: [https://dr.ntu.edu.sg/entities/person/Tay-Wee-Peng Prof. Tay Wee Peng]
 
-Email: rooji.jinan@ntu.edu.sg\n
+Email: rooji.jinan@ntu.edu.sg \n
 
 ~~~
 
@@ -31,17 +30,17 @@ of networked systems.
 
 == Publications
 - R. Jinan, A. Badita, T. Bodas, and [https://ece.iisc.ac.in/~parimal P.~Parag], “Load balancing policies without feedback using timed replicas,”
-Performance Evaluation, vol. 162, p. 102381, Nov. 2023, doi: https://doi.org/10.1016/j.peva.2023.102381.
+Performance Evaluation, vol. 162, p. 102381, Nov. 2023, doi: [https://doi.org/10.1016/j.peva.2023.102381].
 - R. Jinan, G. Gautam, [https://ece.iisc.ac.in/~parimal P.~Parag], and V. Aggarwal, “Asymptotic Analysis of Probabilistic Scheduling for
 Erasure-Coded Heterogeneous Systems,” ACM SIGMETRICS Performance Evaluation Review, vol. 50, no.
-4, pp. 8–10, Apr. 2023, doi: https://doi.org/10.1145/3595244.3595248.
+4, pp. 8–10, Apr. 2023, doi: [https://doi.org/10.1145/3595244.3595248].
 - R. Jinan, A. Badita, P. Sarvepalli, and [https://ece.iisc.ac.in/~parimal P.~Parag], “Latency Optimal Storage and Scheduling of Replicated
 Fragments for Memory Constrained Servers,” IEEE Transactions on Information Theory, vol. 68, no. 6, pp.
-4135–4155, Feb. 2022, doi: https://doi.org/10.1109/tit.2022.3152182
+4135–4155, Feb. 2022, doi: [https://doi.org/10.1109/tit.2022.3152182]
 - R. Jinan, A. Badita, P. Sarvepalli, and [https://ece.iisc.ac.in/~parimal P.~Parag], “Low latency replication coded storage over memory-constrained servers,” 2022 IEEE International Symposium on Information Theory (ISIT), Melbourne, Australia,
-2021, pp. 2340–2345, doi: https://doi.org/10.1109/isit45174.2021.9517901.
+2021, pp. 2340–2345, doi: [https://doi.org/10.1109/isit45174.2021.9517901].
 - R. Jinan, [https://ece.iisc.ac.in/~parimal P.~Parag], and [https://ece.iisc.ac.in/~htyagi H.~Tyagi], “Tracking an Auto-Regressive Process with Limited Communication per
-Unit Time,” Entropy, vol. 23, no. 3, pp. 347–347, Mar. 2021, doi: https://doi.org/10.3390/e23030347.
+Unit Time,” Entropy, vol. 23, no. 3, pp. 347–347, Mar. 2021, doi: [https://doi.org/10.3390/e23030347].
 - R.~Jinan, 
 [https://ece.iisc.ac.in/~parimal P.~Parag], and 
 [https://ece.iisc.ac.in/~htyagi H.~Tyagi].
@@ -49,12 +48,12 @@ Tracking an auto-regressive process with limited communication.
 /IEEE International Symposium on Information Theory (ISIT)/,
 Los Angeles, CA, USA, 
 Jun 21-26, 2020.
-[ ieeexplore].
+[ieeexplore].
 [papers/2020/isit.pdf paper].
 [slides/2020/ISIT2020.pdf slides].
 [https://confcats-event-sessions.s3.amazonaws.com/isit20/videos/1633.mp4 video].
 - R. Jinan and T. Raveendran, “Particle Filters for Multiple Target Tracking,” Procedia Technology, vol. 24,
-pp. 980–987, Jan. 2016, doi: https://doi.org/10.1016/j.protcy.2016.05.215
+pp. 980–987, Jan. 2016, doi: [https://doi.org/10.1016/j.protcy.2016.05.215]
 
 
 == Talks
