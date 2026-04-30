@@ -3,7 +3,7 @@ name: Build and Deploy Jemdoc
 on:
   push:
     branches:
-      - master  # Runs every time you push to the master branch
+      - master
 
 permissions:
   contents: write
@@ -22,14 +22,14 @@ jobs:
 
       - name: Generate HTML from Jemdoc
         run: |
-          # This command runs jemdoc.py on all jemdoc files in your root
-          # Ensure jemdoc.py is in your repository root!
-          python3 jemdoc.py *.jemdoc
+          # This command includes your mysite.conf file
+          python3 jemdoc.py -c mysite.conf index.jemdoc
+          python3 jemdoc.py -c mysite.conf courses.jemdoc
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add *.html
-          git commit -m "Automated jemdoc build" || echo "No changes to commit"
+          git commit -m "Automated jemdoc build with config" || echo "No changes to commit"
           git push
