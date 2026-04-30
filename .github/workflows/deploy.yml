@@ -18,13 +18,13 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '2.7' # Changed from 3.x to 2.7
 
       - name: Generate HTML from Jemdoc
         run: |
-          # This command includes your mysite.conf file
-          python3 jemdoc.py -c mysite.conf index.jemdoc
-          python3 jemdoc.py -c mysite.conf courses.jemdoc
+          # Use python (which defaults to 2.7 in this environment)
+          python jemdoc.py -c mysite.conf index.jemdoc
+          python jemdoc.py -c mysite.conf courses.jemdoc
 
       - name: Commit and Push changes
         run: |
