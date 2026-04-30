@@ -29,18 +29,6 @@ of networked systems.
 
 
 == Publications
-- R. Jinan, A. Badita, T. Bodas, and [https://ece.iisc.ac.in/~parimal P.~Parag], “Load balancing policies without feedback using timed replicas,”
-Performance Evaluation, vol. 162, p. 102381, Nov. 2023, doi: [https://doi.org/10.1016/j.peva.2023.102381].
-- R. Jinan, G. Gautam, [https://ece.iisc.ac.in/~parimal P.~Parag], and V. Aggarwal, “Asymptotic Analysis of Probabilistic Scheduling for
-Erasure-Coded Heterogeneous Systems,” ACM SIGMETRICS Performance Evaluation Review, vol. 50, no.
-4, pp. 8–10, Apr. 2023, doi: [https://doi.org/10.1145/3595244.3595248].
-- R. Jinan, A. Badita, P. Sarvepalli, and [https://ece.iisc.ac.in/~parimal P.~Parag], “Latency Optimal Storage and Scheduling of Replicated
-Fragments for Memory Constrained Servers,” IEEE Transactions on Information Theory, vol. 68, no. 6, pp.
-4135–4155, Feb. 2022, doi: [https://doi.org/10.1109/tit.2022.3152182]
-- R. Jinan, A. Badita, P. Sarvepalli, and [https://ece.iisc.ac.in/~parimal P.~Parag], “Low latency replication coded storage over memory-constrained servers,” 2022 IEEE International Symposium on Information Theory (ISIT), Melbourne, Australia,
-2021, pp. 2340–2345, doi: [https://doi.org/10.1109/isit45174.2021.9517901].
-- R. Jinan, [https://ece.iisc.ac.in/~parimal P.~Parag], and [https://ece.iisc.ac.in/~htyagi H.~Tyagi], “Tracking an Auto-Regressive Process with Limited Communication per
-Unit Time,” Entropy, vol. 23, no. 3, pp. 347–347, Mar. 2021, doi: [https://doi.org/10.3390/e23030347].
 - R.~Jinan, 
 [https://ece.iisc.ac.in/~parimal P.~Parag], and 
 [https://ece.iisc.ac.in/~htyagi H.~Tyagi].
