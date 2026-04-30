@@ -38,8 +38,7 @@ Erasure-Coded Heterogeneous Systems,” ACM SIGMETRICS Performance Evaluation Re
 - R. Jinan, A. Badita, P. Sarvepalli, and [https://ece.iisc.ac.in/~parimal P.~Parag], “Latency Optimal Storage and Scheduling of Replicated
 Fragments for Memory Constrained Servers,” IEEE Transactions on Information Theory, vol. 68, no. 6, pp.
 4135–4155, Feb. 2022, doi: https://doi.org/10.1109/tit.2022.3152182
-- R. Jinan, A. Badita, P. Sarvepalli, and [https://ece.iisc.ac.in/~parimal P.~Parag], “Low latency replication coded storage over memory
--constrained servers,” 2022 IEEE International Symposium on Information Theory (ISIT), Melbourne, Australia,
+- R. Jinan, A. Badita, P. Sarvepalli, and [https://ece.iisc.ac.in/~parimal P.~Parag], “Low latency replication coded storage over memory-constrained servers,” 2022 IEEE International Symposium on Information Theory (ISIT), Melbourne, Australia,
 2021, pp. 2340–2345, doi: https://doi.org/10.1109/isit45174.2021.9517901.
 - R. Jinan, [https://ece.iisc.ac.in/~parimal P.~Parag], and [https://ece.iisc.ac.in/~htyagi H.~Tyagi], “Tracking an Auto-Regressive Process with Limited Communication per
 Unit Time,” Entropy, vol. 23, no. 3, pp. 347–347, Mar. 2021, doi: https://doi.org/10.3390/e23030347.
