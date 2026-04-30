@@ -1,14 +1,14 @@
 # jemdoc:{index.html}
 = Rooji Jinan
 
-#[img{150}{}{Rooji Jinan} Images/RoojiJinan.jpg]
+#[img{150}{}{Rooji Jinan} Images/Photo_RoojiJinan.png]
 
 ~~~
-{}{img_left}{./Images/RoojiJinan.jpg}{Rooji Jinan}{150}{}{}
-PhD Student\n
-[http://cps.iisc.ac.in/ Robert Bosch Centre for Cyberphysical Systems]\n
+{}{img_left}{./Images/Photo_RoojiJinan.png}{Rooji Jinan}{150}{}{}
+Research Fellow\n
+[http://https://www.ntu.edu.sg/ Nanyang Technological University]\n
 [http://iisc.ac.in/ Indian Institute of Science]\n
-Bengaluru 560 012 \n
+Singapore \n
 
 Advisor: [https://ece.iisc.ac.in/~parimal Dr.Parimal Parag]
 
